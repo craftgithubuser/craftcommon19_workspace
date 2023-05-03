@@ -1,2 +1,7 @@
 Hellooo Everyone Hello Team
+<<<<<<< HEAD
 Hi team welcome to our class....
+=======
+Hi team welcome to our class
+what time class start?
+>>>>>>> main
