@@ -1,5 +1,9 @@
 Hellooooo
+<<<<<<< HEAD
+welcome
+=======
 welcome
 
 Thank you
 hey
+>>>>>>> 64fdacc451a0838b42593420daba9b27320e1f3d
