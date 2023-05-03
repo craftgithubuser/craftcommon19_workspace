@@ -1,1 +1,2 @@
 employee salary
+$10000
