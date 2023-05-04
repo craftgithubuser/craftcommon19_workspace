@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 employee salary
+=======
+employee salary
+$10000
+>>>>>>> 64fdacc451a0838b42593420daba9b27320e1f3d

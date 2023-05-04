@@ -13,3 +13,4 @@ we going to push.
 >>>>>>> 6969829833001169d591c78beaed875ac41d23a3
 
 Hello everyone what is todays session? 
+Hi everyone
