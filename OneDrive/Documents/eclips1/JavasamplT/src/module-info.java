@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author yodde
+ *
+ */
+module JavasamplT {
+}
