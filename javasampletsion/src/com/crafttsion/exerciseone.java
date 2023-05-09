@@ -9,6 +9,9 @@ public class exerciseone {
 		System.out.print ("print something");
 		System.out.print ("print something");
 		System.out.print ("print something");
+		System.out.print ("print something");
+		System.out.print ("print something");
+
 	}
 
 }
