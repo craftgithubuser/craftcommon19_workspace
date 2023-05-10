@@ -3,3 +3,6 @@ dml not auto commited
 
 
 creatdatabase studentdb;
+
+
+2nd
