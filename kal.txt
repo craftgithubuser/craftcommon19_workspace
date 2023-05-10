@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 this is assignment.
+=======
+this is assignment
+is great
+
+Hello is this maki class 2023
+>>>>>>> 5726c45fdf1876886dbdcb54138cb55c9dd2d7f4
