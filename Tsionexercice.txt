@@ -13,5 +13,9 @@ hello hello how was the GitBush exersice?
 it's good for me
 so what should do?
 i think.
+<<<<<<< HEAD
 Hello everybody are you doing the exrsice?
 okay its good
+=======
+ooo it good
+
