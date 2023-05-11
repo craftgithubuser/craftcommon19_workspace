@@ -6,6 +6,7 @@ public class Lab {
 		// TODO Auto-generated method stub
 		System.out.println("This is craft school lab");
 		System.out.println("This is craft school lab");
+		System.out.println("This is craft school lab");
 	}
 
 }
