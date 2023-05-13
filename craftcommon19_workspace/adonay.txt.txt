@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Hello World
+=======
+Hello World, we still learning
+ 
+Queen is back
+>>>>>>> 5243fb536a8811702629c708f3b05f79e9a39a48
