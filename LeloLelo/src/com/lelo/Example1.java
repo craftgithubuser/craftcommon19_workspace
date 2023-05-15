@@ -12,6 +12,7 @@ public class Example1 {
 		System.out.print("print something");
 		System.out.print("print something");
 		System.out.print("print something");
+		
 
 	}
 
