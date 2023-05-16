@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+This is demo.
+=======
 This is demo.
 Good job
+>>>>>>> 5243fb536a8811702629c708f3b05f79e9a39a48

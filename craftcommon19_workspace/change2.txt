@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+This is my change2 file
+=======
 This is my change2 file.
 
 Thanks
+>>>>>>> 5243fb536a8811702629c708f3b05f79e9a39a48

@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+we are changing 
+=======
 we are changing.
 
 Greeting dawit
+>>>>>>> 5243fb536a8811702629c708f3b05f79e9a39a48

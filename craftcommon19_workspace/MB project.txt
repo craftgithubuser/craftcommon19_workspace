@@ -1,2 +1,6 @@
 Hi all.....111234 
+<<<<<<< HEAD
+this is my 1st project
+=======
 this is my 1st project////
+>>>>>>> 5243fb536a8811702629c708f3b05f79e9a39a48

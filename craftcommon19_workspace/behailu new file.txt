@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+Hello team how are you
+=======
 Hello team how are you
 
 This is me makiqueen 
 nice to meet you!!
+>>>>>>> 5243fb536a8811702629c708f3b05f79e9a39a48
