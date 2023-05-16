@@ -11,6 +11,7 @@ public class sample1 {
         System.out.println("this is my first java 2023");
         System.out.println("this is my first java 2023");
         System.out.println("this is my first java 2023");
+        System.out.println("this is my first java 2023");
 	}
 
 }
