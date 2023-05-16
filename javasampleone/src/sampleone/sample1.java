@@ -6,12 +6,7 @@ public class sample1 {
 		// TODO Auto-generated method stub
         System.out.println("this is my first java 2023");
         System.out.println("this is my first java 2023");
-        System.out.println("this is my first java 2023");
-        System.out.println("this is my first java 2023");
-        System.out.println("this is my first java 2023");
-        System.out.println("this is my first java 2023");
-        System.out.println("this is my first java 2023");
-        System.out.println("this is my first java 2023");
+               
 	}
 
 }
