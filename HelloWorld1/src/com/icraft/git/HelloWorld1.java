@@ -1,9 +1,10 @@
-package merry;
+package com.icraft.git;
 
-public class selam_t {
+public class HelloWorld1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		system.out.println("Hello World");
 
 	}
 
