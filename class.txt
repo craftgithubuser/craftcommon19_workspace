@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 we have class tonight hi
+=======
+we have class tonight  noooooo
+>>>>>>> 8609cbc33b4846d4ef232e792eb4705bf670b3c3
