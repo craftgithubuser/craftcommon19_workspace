@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Btu
+ *
+ */
+module javasampleproject {
+}
