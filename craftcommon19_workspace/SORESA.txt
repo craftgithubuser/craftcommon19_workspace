@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+take this as a temple for your assignment
+=======
+<<<<<<< HEAD
+take this as a temple for your assignment,mmm
+=======
+take this as a temple for your assignment
+noted!!
+>>>>>>> f45273c30c361ffe4ed960035a294f7dcacd48e2
+thank you very much
+>>>>>>> 5243fb536a8811702629c708f3b05f79e9a39a48
