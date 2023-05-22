@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mnege
+ *
+ */
+module javasampletsion {
+}

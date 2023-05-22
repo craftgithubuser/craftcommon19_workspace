@@ -1,5 +1,6 @@
 # craftcommon19_workspace
-
+<<<<<<< HEAD
+it is my first githu
 Hello everyone, welcome to the team.
 <<<<<<< HEAD
 hey what's goin on, አስተማሪው ጎበዝ ነው 
@@ -14,3 +15,5 @@ we going to push.
 
 Hello everyone what is todays session? 
 Hi everyone
+=======
+>>>>>>> branch 'main' of https://github.com/craftgithubuser/craftcommon19_workspace.git
