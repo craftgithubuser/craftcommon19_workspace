@@ -5,4 +5,4 @@ dml not auto commited
 creatdatabase studentdb;
 
 
-2nd
+2nd. yes we start 2nd course next week.
