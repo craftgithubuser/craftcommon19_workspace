@@ -1,5 +1,6 @@
 # craftcommon19_workspace
 <<<<<<< HEAD
+<<<<<<< HEAD
 it is my first githu
 Hello everyone, welcome to the team.
 <<<<<<< HEAD
@@ -15,5 +16,7 @@ we going to push.
 
 Hello everyone what is todays session? 
 Hi everyone
+=======
+>>>>>>> branch 'main' of https://github.com/craftgithubuser/craftcommon19_workspace.git
 =======
 >>>>>>> branch 'main' of https://github.com/craftgithubuser/craftcommon19_workspace.git
