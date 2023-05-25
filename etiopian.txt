@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 good night.hihihi
+=======
+good night.bye
+>>>>>>> 57ea0e33c1fdba0725c2d77f6c40a74de4c9ec6b
