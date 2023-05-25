@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e60725a39bf3af320dbcb17dc5168d34adf61310
 =======
 >>>>>>> e60725a39bf3af320dbcb17dc5168d34adf61310
 <<<<<<< HEAD
@@ -8,8 +11,11 @@ we have class tonight hi
 we have class tonight  noooooo
 >>>>>>> 8609cbc33b4846d4ef232e792eb4705bf670b3c3
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 we have class tonight  noooooo.
 >>>>>>> 57ea0e33c1fdba0725c2d77f6c40a74de4c9ec6b
+=======
+>>>>>>> e60725a39bf3af320dbcb17dc5168d34adf61310
 =======
 >>>>>>> e60725a39bf3af320dbcb17dc5168d34adf61310

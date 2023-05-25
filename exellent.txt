@@ -1,9 +1,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 help God hi.
 =======
 help God. that good 
 >>>>>>> 57ea0e33c1fdba0725c2d77f6c40a74de4c9ec6b
+=======
+help God hi.
+>>>>>>> e60725a39bf3af320dbcb17dc5168d34adf61310
 =======
 help God hi.
 >>>>>>> e60725a39bf3af320dbcb17dc5168d34adf61310
