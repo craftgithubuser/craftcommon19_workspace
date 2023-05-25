@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Thankyou God.
+=======
 hey hey.
+>>>>>>> 4c11c47cf693ab9e9ee55c474db7a0fd2d067805
