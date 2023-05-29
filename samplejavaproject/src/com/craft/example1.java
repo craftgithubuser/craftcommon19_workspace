@@ -8,7 +8,7 @@ public class example1 {
 		System.out.println("print something");
 		System.out.println("print something");
 		System.out.println("print something");
-		System.out.println("print something");
+		System.out.println("i love eating  something");
 
 	}
 
