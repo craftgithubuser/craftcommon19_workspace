@@ -6,7 +6,7 @@ public class love {
 		// TODO Auto-generated method stub
 
 		
-		System.out.println("one love");
+		System.out.println("one love Ethiopia");
 	}
 
 }
