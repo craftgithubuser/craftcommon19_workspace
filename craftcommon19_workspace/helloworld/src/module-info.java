@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Btu
- *
- */
-module helloworld {
-}
