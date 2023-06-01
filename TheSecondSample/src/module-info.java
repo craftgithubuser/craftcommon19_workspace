@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author neges
+ *
+ */
+module TheSecondSample {
+}

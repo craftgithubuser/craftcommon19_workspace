@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="africa/src"/>
+	<classpathentry kind="src" path="craftcommon19_workspace/helloworld/src"/>
+	<classpathentry kind="src" path="Hallo/src"/>
+	<classpathentry kind="src" path="Halloworld/src"/>
+	<classpathentry kind="src" path="Happy/src"/>
+	<classpathentry kind="src" path="helloethiopia/src"/>
+	<classpathentry kind="src" path="HelloKal/src"/>
+	<classpathentry kind="src" path="helloworld/src"/>
+	<classpathentry kind="src" path="HelloWorld1/src"/>
+	<classpathentry kind="src" path="HellowWorld/src"/>
+	<classpathentry kind="src" path="Javasample1/src"/>
+	<classpathentry kind="src" path="javasample2/src"/>
+	<classpathentry kind="src" path="javasampleone/src"/>
+	<classpathentry kind="src" path="javasampleproject/src"/>
+	<classpathentry kind="src" path="javasampletsion/src"/>
+	<classpathentry kind="src" path="JavaWorld/src"/>
+	<classpathentry kind="src" path="lajava/src"/>
+	<classpathentry kind="src" path="Lazzaproject/src"/>
+	<classpathentry kind="src" path="LeloLelo/src"/>
+	<classpathentry kind="src" path="Project99/src"/>
+	<classpathentry kind="src" path="samplejavaproject/src"/>
+	<classpathentry kind="src" path="School/src"/>
+	<classpathentry kind="src" path="selam12/src"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="testhello/src"/>
+	<classpathentry kind="src" path="TheFirstSampleProject/src"/>
+	<classpathentry kind="src" path="TheSecondSample/src"/>
+	<classpathentry kind="src" path="Thirdpractice/src"/>
+	<classpathentry kind="src" path="welcomestudent/src"/>
+	<classpathentry kind="src" path="workpleas/src"/>
+	<classpathentry kind="src" path="ZolaCraft1/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
