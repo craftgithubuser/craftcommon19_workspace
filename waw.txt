@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ddddd.wow.
+=======
+ddddd.wow!
+>>>>>>> ca7311d340704f3c0927998f0fe5bd32d9ea3d83
