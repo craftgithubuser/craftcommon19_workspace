@@ -1,8 +1,0 @@
-ddl is outo- commited
-dml not auto commited
-
-
-creatdatabase studentdb;
-
-
-2nd
