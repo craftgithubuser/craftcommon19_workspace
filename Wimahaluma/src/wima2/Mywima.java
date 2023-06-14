@@ -1,12 +1,10 @@
-package ethiopia;
+package wima2;
 
-public class love {
+public class Mywima {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
-		
-		System.out.println("one love Ethiopia");
+System.out.println("Well come");
 	}
 
 }
