@@ -13,7 +13,7 @@ public class LocalVariableDemo1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		LocalVaribleDemo2 m1 = new localVaribleDemo2();
+		LocalVariableDemo1 m1 = new LocalVariableDemo1();
 		
 		m1.methodone();
 		m1.methodtwo();
