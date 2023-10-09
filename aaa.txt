@@ -3,7 +3,26 @@ welcome
 
 Thank you
 hey
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e60725a39bf3af320dbcb17dc5168d34adf61310
 
 
 
 Hello team.
+<<<<<<< HEAD
+=======
+
+
+
+Hello team.
+
+Hello this is trial
+ Hello
+>>>>>>> e60725a39bf3af320dbcb17dc5168d34adf61310
+=======
+
+Hello this is trial
+ Hello
+>>>>>>> e60725a39bf3af320dbcb17dc5168d34adf61310
